@@ -1,28 +1,59 @@
-# Hi there 👋
+# Kaito Udagawa's profile
 
-I'm umireon, a Developer and Streamer from Tokyo 🇯🇵
+I am an independent developer mainly working on open-source softwares. Open to work now.
 
-I bridge the gap between Infrastructure (SRE) and Content Creation (OBS). Currently, my main quest is leveling up my **Fan Art skills** 🎨 — it's my #1 priority!
+- **My name** is Kaito Udagawa
+- **I live in** Tokyo, Japan
+- **My Email** is `umireon at kaito.tokyo`
+- **My GitHub account** is https://github.com/umireon
+- **My YouTube channel** is https://www.youtube.com/@umireon
+- **My Twitch channel** is https://www.twitch.tv/umireon
+- **My X account** is https://x.com/umireon
 
-## 🎨 What I'm passionate about
+## Skills
 
-- **Fan Art**: Creating Pokémon art Shorts on [YouTube](https://youtube.com/@umireon) (several videos went viral!)
-- **Content Creation**: Twitch Affiliate & YouTuber with 1.2k+ subscribers
-- **Streaming Tools**: Creator of [Live Background Removal Lite](https://github.com/kaito-tokyo/live-backgroundremoval-lite), powered by innovative technology
-- **Open Source**: Maintainer of pnpm, Active contributor to Homebrew, Arctic Code Vault Contributor ❄️
-- **Engineering**: SRE specializing in CI/CD automation and reliability
+- Mobile Development based on Fortified workflows
+- Opinionated CI/CD techniques for Hermetic build
+- SLSA
+- System Programming in C, C++, and Go
+- Web Development focusing on Accessibility and Semantics
 
-## 🤝 Why Sponsor?
+## Experience
 
-Sponsorship is more than a donation; it's a "Handshake" for Co-op Development. Funds directly support:
+### **Monoxer, Inc.** / Site Reliability Engineer
 
-- **Hardware Resources**: Physical/Virtual machines to test my software on various environments
-- **Life Support**: Coffee and essential living costs to keep this biological server running ☕
+FEBRUARY 2022 - JULY 2025, TOKYO
 
-Let's build the future together!
+- Architected an on-premise iOS build farm integrated with GitHub Actions Self-hosted ephemeral runner.
+- Kickstarted the end-to-end browser test with continuous integration.
+- Mentored an experienced engineer from overseas.
+- Reduced duration of Scala CI at ⅙ scale.
+- Set up DMARC.
 
-## 🔗 Links
+### **Ricksoft, Inc.** / Junior Software Engineer
 
-- 💖 [GitHub Sponsors](https://github.com/sponsors/umireon)
-- 🏢 [kaito-tokyo](https://github.com/kaito-tokyo/) organization
-- 📺 [YouTube](https://youtube.com/@umireon) / [Twitch](https://twitch.tv/umireon) / [X](https://x.com/umireon)
+MAY 2020 - JANUARY 2022, JAPAN
+
+- Introducing multi-account governance using AWS Control Tower.
+- Offshore development.
+
+## Education
+
+### **WASEDA University** / Master
+
+APRIL 2012 - MARCH 2021, Tokyo
+
+- Department of Computer Science and Communications Engineering.
+- Studied inter-symbol interference suppression in coded MIMO-OFDM using theoretical bit error rate as the master thesis.
+- Published at 19th International Conference on OFDM and Frequency Domain Techniques (ICOF2016): https://waseda.elsevierpure.com/ja/publications/inter-symbol-interference-suppression-scheme-using-periodic-signa-2/
+
+## Awards
+
+- Arctic Code Vault Contributor (Homebrew/brew, ajaxorg/ace, semantic-release/semantic-release, and so on).
+- Member of [pnpm org](https://github.com/pnpm).
+
+## My works
+
+- **[royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)**: **Main Maintainer** / OBS plugin to remove portrait background based on AI.
+- **[kaito-tokyo/live-backgroundremoval-lite](https://github.com/kaito-tokyo/live-backgroundremoval-lite)**: **Owner** / Clean reimplementation of obs-backgroundremoval based on ncnn.
+
