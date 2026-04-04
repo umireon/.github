@@ -49,11 +49,14 @@ APRIL 2012 - MARCH 2021, Tokyo
 
 ## Awards
 
-- Arctic Code Vault Contributor (Homebrew/brew, ajaxorg/ace, semantic-release/semantic-release, and so on).
-- Member of [pnpm org](https://github.com/pnpm).
+- Arctic Code Vault Contributor ([Homebrew/brew](https://github.com/Homebrew/brew), [ajaxorg/ace](https://github.com/ajaxorg/ace), [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release), and so on).
+- Member of [pnpm organization](https://github.com/pnpm).
 
 ## My works
 
-- **[royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)**: **Main Maintainer** / OBS plugin to remove portrait background based on AI.
-- **[kaito-tokyo/live-backgroundremoval-lite](https://github.com/kaito-tokyo/live-backgroundremoval-lite)**: **Owner** / Clean reimplementation of obs-backgroundremoval based on ncnn.
-
+- **[royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)**: Main Maintainer / OBS plugin to remove portrait background based on AI.
+- **[kaito-tokyo/live-backgroundremoval-lite](https://github.com/kaito-tokyo/live-backgroundremoval-lite)**: Owner / Clean reimplementation of obs-backgroundremoval based on ncnn.
+- **[kaito-tokyo/vcpkg-obs-kaito-tokyo](https://github.com/kaito-tokyo/vcpkg-obs-kaito-tokyo)**: Owner / Custom vcpkg registry with build farm for binary caches.
+- **[kaito-tokyo/minisign-js](https://github.com/kaito-tokyo/minisign-js)**: Owner / Secure minisign implementation in Pure JavaScript. No bundle and zero dependencies.
+- **[kaito-tokyo/KaitoTokyo-SimpleJsonReader](https://github.com/kaito-tokyo/KaitoTokyo-SimpleJsonReader)**: Owner / Recursive Descent JSON parser for C++ with SAX-like interface. Zero dependencies and zero allocation.
+- **[kaito-tokyo/YOLOX](https://github.com/kaito-tokyo/YOLOX)**: Fixed version of original [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX).
