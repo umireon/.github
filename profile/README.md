@@ -2,7 +2,7 @@
 
 I am an independent developer mainly working on open-source software. Currently (April 2026) open to work.
 
-My works are usually hosted on my organization named [Kaito.tokyo](https://github.com/kaito-tokyo).
+My work is usually hosted under the [Kaito.tokyo](https://github.com/kaito-tokyo) organization.
 
 - **My name** is Kaito Udagawa
 - **I live in** Tokyo, Japan
